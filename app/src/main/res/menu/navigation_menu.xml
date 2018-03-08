@@ -3,8 +3,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/Department"
+        android:icon="@mipmap/ic_school_black_24dp"
         android:title="Department"></item>
     <item
         android:id="@+id/Semester"
+        android:icon="@mipmap/ic_local_library_black_24dp"
         android:title="Semester"></item>
 </menu>
